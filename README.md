@@ -6,7 +6,7 @@ n output graphs where indicated.
 Analysis of Factors Influencing Adult Income Levels
 
 Author: Vaish
-Institution: [Your College Name]
+Institution: KJ SOMAIYA
 Course: Data Analytics / AI Lab Project
 GitHub Repository: [Add your GitHub repo link here]
 
@@ -158,7 +158,7 @@ VI. REFERENCES
 AUTHOR INFORMATION
 
 Name: Vaish
-Institution: [Insert your college name]
+Institution: KJ SOMAIYA
 Course: Data Analytics / AI Lab Project
-Semester: [Insert semester here]
+Semester: 3rd Semester
 GitHub Repository: [Insert GitHub link]
